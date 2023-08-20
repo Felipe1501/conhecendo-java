@@ -10,5 +10,12 @@ public class TypeVariable {
         int numeroNormal = numeroCurto;
 
         short numeroCurto2 = (short) numeroNormal;
+
+
+        final double VALOR_PI = 3.14;
+
+        boolean verdade = true;
+
+        String nm = "Felipe";
     }
 }
