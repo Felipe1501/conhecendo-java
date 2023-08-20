@@ -10,6 +10,18 @@ public class Classes {
 
         ano = 2024;
 
-        System.out.print(ano);
+        System.out.println(ano);
+
+        String primeiroNm = "Felipe";
+        String segundoNm = "Barbosa dos Santos";
+
+        String nomeCompleto = nomeCompleto (primeiroNm, segundoNm);
+        System.out.println(nomeCompleto);
+
+    }
+    public static String nomeCompleto(String primeiroNm, String segundoNm){
+
+     return "Resultado do Método " + primeiroNm.concat(" ").concat(segundoNm); 
+
     }
 }
