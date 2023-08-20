@@ -62,5 +62,10 @@ public class Operators {
         String resultado = a == b ? "VERDADEIRO" : "FALSO";
 
         System.out.println(resultado);
+
+        String nm1 = "Felipe";
+        String nm2 = new String("Yuri Alberto");
+
+        System.out.println(nm1 == nm2);
     }
 }
