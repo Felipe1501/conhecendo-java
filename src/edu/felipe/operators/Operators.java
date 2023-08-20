@@ -42,6 +42,16 @@ public class Operators {
 
         numero = numero * -1;
 
+        numero++;
+
         System.out.println(numero);
+
+        numero--;
+
+        System.out.println(--numero);
+
+        boolean verdade = true;
+
+        System.out.println(!verdade);
     }
 }
