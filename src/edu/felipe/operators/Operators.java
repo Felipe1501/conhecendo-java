@@ -63,9 +63,14 @@ public class Operators {
 
         System.out.println(resultado);
 
-        String nm1 = "Felipe";
+        String nm1 = "Yuri Alberto";
         String nm2 = new String("Yuri Alberto");
 
         System.out.println(nm1 == nm2);
+
+        System.out.println(nm1.equals(nm2));
+
+
+
     }
 }
