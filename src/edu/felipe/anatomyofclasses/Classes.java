@@ -1,4 +1,4 @@
-package edu.felipe.segundasemana;
+package edu.felipe.anatomyofclasses;
 public class Classes {
     public static void main(String[] args) {
 

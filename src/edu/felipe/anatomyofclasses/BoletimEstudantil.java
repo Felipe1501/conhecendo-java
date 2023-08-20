@@ -1,4 +1,4 @@
-package edu.felipe.primeirasemana;
+package edu.felipe.anatomyofclasses;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 9;
