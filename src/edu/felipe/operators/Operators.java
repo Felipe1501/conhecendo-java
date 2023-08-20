@@ -53,5 +53,14 @@ public class Operators {
         boolean verdade = true;
 
         System.out.println(!verdade);
+
+        int a ,b;
+
+        a = 5;
+        b = 5;
+
+        String resultado = a == b ? "VERDADEIRO" : "FALSO";
+
+        System.out.println(resultado);
     }
 }
