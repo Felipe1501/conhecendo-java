@@ -20,6 +20,7 @@ public class AboutMe {
         double altura = scanner.nextDouble();
 
         //imprimindo na tela
+        //https://felipe-silva-aguiar.gitbook.io/dio-java/gitbook/summary
         System.out.println("Hello fi, me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade);
         System.out.println("Minha altura é " + altura + "cm ");
