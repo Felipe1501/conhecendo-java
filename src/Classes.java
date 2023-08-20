@@ -3,6 +3,13 @@ public class Classes {
 
         final String BR = "Brasil";
 
-        System.out.print(BR);
+        int ano = 2023;
+
+        System.out.println(BR);
+        System.out.println(ano);
+
+        ano = 2024;
+
+        System.out.print(ano);
     }
 }
