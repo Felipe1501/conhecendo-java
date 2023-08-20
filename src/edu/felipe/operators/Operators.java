@@ -8,30 +8,40 @@ public class Operators {
 
         String teste = "LINGUAGEM " + "JAVA";
 
-        System.out.println(teste);
+        // System.out.println(teste);
 
-        String concatenacao = "?";
+        // String concatenacao = "?";
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
 
-        concatenacao = 1 + 1 + 1 + "1";
+        // concatenacao = 1 + 1 + 1 + "1";
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
 
-        concatenacao = 1 + "1" + 1 + 1;
+        // concatenacao = 1 + "1" + 1 + 1;
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
 
-        concatenacao = 1 + "1" + 1 + "1";
+        // concatenacao = 1 + "1" + 1 + "1";
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
 
-        concatenacao = "1" + 1 + 1 + 1;
+        // concatenacao = "1" + 1 + 1 + 1;
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
 
-        concatenacao = "1" + (1 + 1 + 1);
+        // concatenacao = "1" + (1 + 1 + 1);
 
-        System.out.println(concatenacao);
+        // System.out.println(concatenacao);
+
+        int numero = 1501;
+
+        numero = - numero;
+
+        System.out.println(numero);
+
+        numero = numero * -1;
+
+        System.out.println(numero);
     }
 }
