@@ -1,5 +1,8 @@
 public class Classes {
     public static void main(String[] args) {
-        System.out.print("HELLO!!!");
+
+        final String BR = "Brasil";
+
+        System.out.print(BR);
     }
 }
